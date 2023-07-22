@@ -1,0 +1,8 @@
+C:\Users\tuan\Desktop\animalandinterfaceEdible\obj\Debug\animalandinterfaceEdible.csproj.AssemblyReference.cache
+C:\Users\tuan\Desktop\animalandinterfaceEdible\obj\Debug\animalandinterfaceEdible.csproj.SuggestedBindingRedirects.cache
+C:\Users\tuan\Desktop\animalandinterfaceEdible\obj\Debug\animalandinterfaceEdible.csproj.CoreCompileInputs.cache
+C:\Users\tuan\Desktop\animalandinterfaceEdible\bin\Debug\animalandinterfaceEdible.exe.config
+C:\Users\tuan\Desktop\animalandinterfaceEdible\bin\Debug\animalandinterfaceEdible.exe
+C:\Users\tuan\Desktop\animalandinterfaceEdible\bin\Debug\animalandinterfaceEdible.pdb
+C:\Users\tuan\Desktop\animalandinterfaceEdible\obj\Debug\animalandinterfaceEdible.exe
+C:\Users\tuan\Desktop\animalandinterfaceEdible\obj\Debug\animalandinterfaceEdible.pdb
